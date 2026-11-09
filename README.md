@@ -30,3 +30,14 @@ Beta que reúne evidencia de lluvia y contexto territorial de Guayaquil para exp
 - **Alcance:** beta de evidencia local; los escenarios son simulaciones. No emite alertas oficiales ni probabilidades calibradas de inundación.
 
 [Repositorio](https://github.com/John0487/floodshadow) · [Guía de demostración local](https://github.com/John0487/floodshadow/blob/main/docs/DEMO_GUIDE.md)
+
+### Arte en el Cerro
+
+Landing page que reúne la programación de un evento cultural, su material audiovisual, ubicación y canales institucionales.
+
+- **Tecnologías:** HTML5, CSS3 y JavaScript; publicación en GitHub Pages.
+- **Funciones:** programación artística, selector de videos, archivo fotográfico por fecha y mapa de ubicación.
+- **Participación:** trabajo académico de **John Carreño y Geanpierre Desiderio**, basado en la plantilla [ZeroFour de HTML5 UP](https://html5up.net/zerofour), con personalización de contenido, diseño e interacciones.
+- **Alcance:** el formulario de contacto es demostrativo; no envía ni almacena información.
+
+[Repositorio](https://github.com/John0487/landing-page-arte-en-el-cerro) · [Ver sitio](https://john0487.github.io/landing-page-arte-en-el-cerro/)
