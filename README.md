@@ -11,3 +11,9 @@ Me interesa construir interfaces que permitan consultar información con clarida
 - **Comunidad y aprendizaje:** he participado en asistencia de cátedra de programación con Python y actividades del capítulo estudiantil IEEE Computer Society en ESPOL.
 
 Más sobre mi formación y experiencia en mi [CV en línea](https://john0487.github.io/cv-project/).
+
+## Habilidades y tecnologías
+
+- **HTML, CSS y JavaScript:** estructura, estilos e interacciones en [Arte en el Cerro](https://github.com/John0487/landing-page-arte-en-el-cerro) y [Single Page CV](https://github.com/John0487/cv-project).
+- **React y MapLibre GL:** interfaz y visualización de mapas en [FLOODSHADOW](https://github.com/John0487/floodshadow).
+- **Git y GitHub:** control de versiones, documentación y colaboración en los repositorios enlazados. Uso GitHub Pages para publicar los dos sitios estáticos.
