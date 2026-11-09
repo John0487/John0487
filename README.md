@@ -41,3 +41,13 @@ Landing page que reúne la programación de un evento cultural, su material audi
 - **Alcance:** el formulario de contacto es demostrativo; no envía ni almacena información.
 
 [Repositorio](https://github.com/John0487/landing-page-arte-en-el-cerro) · [Ver sitio](https://john0487.github.io/landing-page-arte-en-el-cerro/)
+
+### Single Page CV
+
+Currículum web de una página para consultar mi formación, habilidades, experiencia y contacto.
+
+- **Tecnologías:** HTML5 semántico, CSS3 y JavaScript sin framework; publicación en GitHub Pages.
+- **Funciones:** diseño adaptable, cambio de idioma entre español e inglés, tema claro u oscuro y descarga del CV en PDF.
+- **Autoría:** proyecto personal desarrollado como ejercicio del recorrido frontend de [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
+
+[Repositorio](https://github.com/John0487/cv-project) · [Ver CV](https://john0487.github.io/cv-project/)
