@@ -51,3 +51,9 @@ Currículum web de una página para consultar mi formación, habilidades, experi
 - **Autoría:** proyecto personal desarrollado como ejercicio del recorrido frontend de [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
 
 [Repositorio](https://github.com/John0487/cv-project) · [Ver CV](https://john0487.github.io/cv-project/)
+
+## Contacto
+
+- [Correo](mailto:johncarreno43@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/john-carre%C3%B1o-07340930b/)
+- [CV en línea](https://john0487.github.io/cv-project/)
